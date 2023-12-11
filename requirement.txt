@@ -1,0 +1,7 @@
+torch
+pandas
+matplotlib
+torchvision
+scikit-learn
+timm
+PIL
